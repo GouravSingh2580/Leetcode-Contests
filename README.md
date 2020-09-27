@@ -1,6 +1,6 @@
 # Leetcode Contests 🚀
 <h2 align="center">
-  <img src="https://i.pinimg.com/originals/2e/b2/5d/2eb25d7e596698a326cb18ea6ad72f2a.gif" alt="Look up!" width="600px" />
+  <img src="https://i.gifer.com/origin/a0/a0d70fa5816cab7d0be881b0f4f66552.gif" alt="Look up!" width="600px" />
   <br>
 </h2>
 
