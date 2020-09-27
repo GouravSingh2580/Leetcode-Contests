@@ -4,6 +4,6 @@
   <br>
 </h2>
 
-## Authors
+## Author
 
-- **Gourav singh** - [https://github.com/GouravSingh2580](https://leetcode.com/gouravsingh2580/)
+: [**Gourav**](https://leetcode.com/gouravsingh2580/)
